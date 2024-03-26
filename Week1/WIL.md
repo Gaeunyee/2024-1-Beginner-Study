@@ -42,5 +42,5 @@ $ git push origin main
 
 ## <실습>
 
-[Gaeunyee] (https://github.com/Gaeunyee/Gaeunyee)
+[Gaeunyee] <https://github.com/Gaeunyee/Gaeunyee>
 
