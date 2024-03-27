@@ -42,3 +42,10 @@ Merge 전 Branch 병합 절차, 코드 리뷰
 '깃모지'를 검색해서 이슈를 예쁘게 꾸미자...
 [깃모지] <https://gitmoji.dev/>
 
+## Pull Request
+
+github에서 Pull Request 버튼을 클릭한다.
+
+discription에 - close #(이슈 번호) 를 적는다.
+
+!!!옵션을 Sqarsh and merge로 변경!!!
