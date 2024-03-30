@@ -11,9 +11,14 @@
 
 ## Issue
 
+프로젝트 기획, 새롭게 추가될 기능, 버그 수정사항 등의 모든 것
+
+Issue 처리가 완료되면 close 해준다.
+
 ## Branch
 
 메인은 이제 그만. 같은 리포지토리에 생성됨!
+Branch에서 따로 작업하고, 나중에 Pull Request로 Merge 한다.
 # Branch Naming Convention
 
 type/<issue 번호>-<설명> //type: docs... etc
@@ -49,3 +54,12 @@ github에서 Pull Request 버튼을 클릭한다.
 discription에 - close #(이슈 번호) 를 적는다.
 
 !!!옵션을 Sqarsh and merge로 변경!!!
+
+## git add 
+
+폴더(Week2) 내에 있는 파일을 add 할 때 Week2/WIL2.md 이런 식으로 파일명을 적어야 한다.
+
+이걸 몰라서 30분동안 머리를 싸맸는데... 왜 그랬을까
+
+<2주차 실습>
+<https://github.com/Gaeunyee/2024-1-Beginner-Study/pull/2>
