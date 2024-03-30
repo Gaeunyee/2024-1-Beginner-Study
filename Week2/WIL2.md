@@ -19,7 +19,7 @@ Issue 처리가 완료되면 close 해준다.
 
 메인은 이제 그만. 같은 리포지토리에 생성됨!
 Branch에서 따로 작업하고, 나중에 Pull Request로 Merge 한다.
-# Branch Naming Convention
+### Branch Naming Convention
 
 type/<issue 번호>-<설명> //type: docs... etc
 
